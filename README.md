@@ -1,4 +1,4 @@
-**Introduction**/n
+**Introduction**:
 In this adrenaline-charged game, each round lasts a brisk 60 seconds, during which you must harness your wits, reflexes, and combat skills to their fullest. Armed with your trusty sword and dodging abilities, you'll engage in a no-holds-barred showdown against other players, all vying for supremacy in the ultimate duel of skill and strategy.
 
 **Controls & Gameplay**:
