@@ -1,6 +1,3 @@
-SwordFight:
-Dive into a relentless frenzy of sword-clashing mayhem in my multiplayer masterpiece created with Unreal Engine 4.27. Immerse yourself in heart-pounding battles where every second counts, as you navigate a dynamic arena filled with chaos and excitement.
-
 In this adrenaline-charged game, each round lasts a brisk 60 seconds, during which you must harness your wits, reflexes, and combat skills to their fullest. Armed with your trusty sword and dodging abilities, you'll engage in a no-holds-barred showdown against other players, all vying for supremacy in the ultimate duel of skill and strategy.
 
 The controls are intuitive, ensuring a seamless experience for players of all levels. Utilize the classic WASD keys for movement, swiftly maneuvering around the battleground to gain the upper hand. When the moment calls for it, unleash devastating attacks with the Left Mouse Button, each strike bringing you closer to victory and your opponents closer to defeat.
