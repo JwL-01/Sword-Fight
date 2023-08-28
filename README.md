@@ -1,5 +1,7 @@
+**Introduction**
 In this adrenaline-charged game, each round lasts a brisk 60 seconds, during which you must harness your wits, reflexes, and combat skills to their fullest. Armed with your trusty sword and dodging abilities, you'll engage in a no-holds-barred showdown against other players, all vying for supremacy in the ultimate duel of skill and strategy.
 
+**Controls & Gameplay**:
 The controls are intuitive, ensuring a seamless experience for players of all levels. Utilize the classic WASD keys for movement, swiftly maneuvering around the battleground to gain the upper hand. When the moment calls for it, unleash devastating attacks with the Left Mouse Button, each strike bringing you closer to victory and your opponents closer to defeat.
 
 Survival is paramount in this intense arena. As the clock ticks down, you'll need to outwit, outmaneuver, and outlast your rivals. Every swing of your sword, every evasive roll, and every well-timed strike brings you closer to victory. The thrill of narrowly escaping an opponent's blade or landing a perfectly timed counterattack will keep your heart racing throughout each round.
