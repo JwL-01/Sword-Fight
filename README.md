@@ -10,4 +10,6 @@ With each round, tension builds as players clash in a symphony of steel and fury
 
 But the battle doesn't end with a single victory. Rounds will continue to pulsate with excitement as they restart in 60 seconds or immediately when a single player emerges victorious, leaving little time for respite. The cycle of combat begins anew, giving players the chance to learn, adapt, and strive for victory once more.
 
+![image](https://github.com/JwL-01/SwordGame/assets/38309953/80744be8-b030-47db-b56a-2ad02f32088a)
+
 Brought to life with the power of Unreal Engine 4.27 and enhanced with marketplace assets, my multiplayer game offers a captivating blend of skill-based gameplay and heart-pounding action. Are you ready to prove your mettle in the arena, carving your path to glory one swing of the sword at a time? The chaos awaits, and only the strongest will emerge as the ultimate champion!
