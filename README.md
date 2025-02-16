@@ -12,7 +12,7 @@ The purpose of this project was to learn how to deal with networking and **multi
 
 **Controls & Gameplay**
 ---
-The controls are simple. Utilize the WASD keys for movement. When the moment calls for it, unleash attacks with the Left Mouse Button.
+The controls are simple. Utilize the WASD keys for movement. When the moment calls for it, unleash attacks with Left Mouse Button.
 
 As the clock ticks down, you'll need to outmaneuver your rivals. Every swing of your sword, and every well-timed strike brings you closer to victory.
 
